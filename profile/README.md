@@ -100,6 +100,11 @@ The primary objective of SootheMate is to assist individuals in managing their s
 ## App Showcase
 <a href="https://drive.google.com/file/d/10i52-0dJz4fIh3BtYg1PCg6QzIfozfe5/view"><img src="/assets/cover.png"></a>
 <a href="https://drive.google.com/file/d/10i52-0dJz4fIh3BtYg1PCg6QzIfozfe5/view"><img src="/assets/pages.png"></a>
+
+### Architecture Google Cloud
+![Cloud Architecture](https://raw.githubusercontent.com/SootheMate-Capstone-Team-C241-PS363/.github/master/pictures/ArchitectureGCP.png)
+
+
 ### Machine Learning Demo  
 https://bit.ly/xxxxxxxx  
 ### App Demo  
