@@ -16,13 +16,19 @@
 <!-- # About Us
 TechWas is a student-led organization dedicated to enhancing the management of e-waste disposals and increasing awareness of electronic waste. Our team of six members, divided into machine learning, cloud computing, and mobile development divisions, has developed an app to achieve our goal. -->
 
-### LOREM IPSUM
-Lorem Ipsum
-  
-  Purpose-driven :
-- LOREM IMPsum
-- Lorem 
-- Lorem
+### Final Selected Theme:
+**Health Innovation: Empowering Vulnerable Communities for Health and Well-being**
+
+### Project Title:
+**SootheMate**
+
+### Project Description:
+**SootheMate** is an innovative application designed to help users monitor and manage their stress levels effectively. By utilizing personal data such as Body Mass Index (BMI), sleep patterns, and etc, SootheMate provides accurate stress predictions, visualizes daily stress trends, and offers a comprehensive history tracking feature. The app ensures user data security through robust authentication options, promoting a proactive approach to health and well-being.
+
+### Project Objectives:
+The primary objective of SootheMate is to assist individuals in managing their stress levels by providing tools to track stress over time. This application aims to encourage users to adopt healthier lifestyles by understanding their stress patterns and taking necessary actions to mitigate stress.
+
+---
 
 <div align="center">
   <h3>Our Team</h3>
