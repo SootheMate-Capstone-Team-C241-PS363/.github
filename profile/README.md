@@ -3,8 +3,8 @@
 |--|--| -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SootheMate-Capstone-Team-C241-PS363/.github/master/pictures/Logo%20SootheMate.png" width="100" height="100"><br>
-  <i>Lorem Ipsum.</i>
+  <img src="https://raw.githubusercontent.com/SootheMate-Capstone-Team-C241-PS363/.github/master/pictures/Logo%20SootheMate.png" width="150" height="150"><br>
+  <i>SootheMate - Stress AI Therapy</i>
 </div>
 
 <!-- ### THE PORTAL
@@ -33,6 +33,8 @@ TechWas is a student-led organization dedicated to enhancing the management of e
 The primary objective of SootheMate is to assist individuals in managing their stress levels by providing tools to track stress over time. This application aims to encourage users to adopt healthier lifestyles by understanding their stress patterns and taking necessary actions to mitigate stress.
 
 ---
+
+### Teams
 
 <div align="center">
   <h3>Our Team</h3>
@@ -127,9 +129,16 @@ The primary objective of SootheMate is to assist individuals in managing their s
 
 ![Cloud Architecture](https://raw.githubusercontent.com/SootheMate-Capstone-Team-C241-PS363/.github/master/pictures/ArchitectureGCP.png)
 
-### Machine Learning Demo
+# Repositories
 
-https://bit.ly/xxxxxxxx
+# Repositories 📁
+You can check our repositories for each learning path in the tables below.
+|   Learning Paths   |                                Link                                |
+| :----------------: | :----------------------------------------------------------------: |
+| Mobile Development | [Github](https://github.com/SootheMate-Capstone-Team-C241-PS363/SootheMate-MD)       |
+|  Machine Learning  |  [Github](https://github.com/SootheMate-Capstone-Team-C241-PS363/SootheMate-BackEnd)       |
+|   Cloud Computing  |   [Github](https://github.com/SootheMate-Capstone-Team-C241-PS363/SootheMate-BackEnd)    |
+
 
 ### App Demo
 
