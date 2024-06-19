@@ -15,6 +15,7 @@
 
 <!-- # About Us
 TechWas is a student-led organization dedicated to enhancing the management of e-waste disposals and increasing awareness of electronic waste. Our team of six members, divided into machine learning, cloud computing, and mobile development divisions, has developed an app to achieve our goal. -->
+## Team ID: C241-PS363
 
 ### Final Selected Theme:
 
@@ -33,8 +34,6 @@ TechWas is a student-led organization dedicated to enhancing the management of e
 The primary objective of SootheMate is to assist individuals in managing their stress levels by providing tools to track stress over time. This application aims to encourage users to adopt healthier lifestyles by understanding their stress patterns and taking necessary actions to mitigate stress.
 
 ---
-
-### Teams
 
 <div align="center">
   <h3>Our Team</h3>
