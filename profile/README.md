@@ -33,6 +33,18 @@ TechWas is a student-led organization dedicated to enhancing the management of e
 
 The primary objective of SootheMate is to assist individuals in managing their stress levels by providing tools to track stress over time. This application aims to encourage users to adopt healthier lifestyles by understanding their stress patterns and taking necessary actions to mitigate stress.
 
+### [Download App Here (.apk file)](https://drive.google.com/drive/folders/xxxxxxx)📲
+<!-- ### TBA -->
+
+## App Showcase
+
+![App Showcase](https://raw.githubusercontent.com/SootheMate-Capstone-Team-C241-PS363/.github/master/pictures/SootheMateMS.png)
+![App Showcase](https://raw.githubusercontent.com/SootheMate-Capstone-Team-C241-PS363/.github/master/pictures/SootheMateMS2.png)
+
+### Architecture Google Cloud
+
+![Cloud Architecture](https://raw.githubusercontent.com/SootheMate-Capstone-Team-C241-PS363/.github/master/pictures/ArchitectureGCP.png)
+
 ---
 
 <div align="center">
@@ -118,18 +130,7 @@ The primary objective of SootheMate is to assist individuals in managing their s
   </table>
 </div>
 
-<!-- ### TBA -->
 
-## App Showcase
-
-![App Showcase](https://raw.githubusercontent.com/SootheMate-Capstone-Team-C241-PS363/.github/master/pictures/SootheMateMS.png)
-![App Showcase](https://raw.githubusercontent.com/SootheMate-Capstone-Team-C241-PS363/.github/master/pictures/SootheMateMS2.png)
-
-### Architecture Google Cloud
-
-![Cloud Architecture](https://raw.githubusercontent.com/SootheMate-Capstone-Team-C241-PS363/.github/master/pictures/ArchitectureGCP.png)
-
-# Repositories
 
 # Repositories 📁
 You can check our repositories for each learning path in the tables below.
@@ -140,14 +141,7 @@ You can check our repositories for each learning path in the tables below.
 |   Cloud Computing  |   [Github](https://github.com/SootheMate-Capstone-Team-C241-PS363/SootheMate-BackEnd)    |
 
 
-### App Demo
-![Dwonload APK Here !](https://drive.google.com/file/d/xxxxxxxxxxxxxx)
-
-
 ### Youtube Link
-![Dwonload APK Here !](https://youtube.me/XX)
+- [Demo Apps ](https://www.youtube.com/)
 
 
-## Special Thanks to :
-xxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxx
