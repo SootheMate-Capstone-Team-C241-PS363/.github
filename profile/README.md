@@ -123,7 +123,8 @@ The primary objective of SootheMate is to assist individuals in managing their s
 
 ## App Showcase
 
-![App Showcase](https://raw.githubusercontent.com/SootheMate-Capstone-Team-C241-PS363/.github/master/pictures/SootheMate.png)
+![App Showcase](https://raw.githubusercontent.com/SootheMate-Capstone-Team-C241-PS363/.github/master/pictures/SootheMateMS.png)
+![App Showcase](https://raw.githubusercontent.com/SootheMate-Capstone-Team-C241-PS363/.github/master/pictures/SootheMateMS2.png)
 
 ### Architecture Google Cloud
 
@@ -136,19 +137,18 @@ You can check our repositories for each learning path in the tables below.
 |   Learning Paths   |                                Link                                |
 | :----------------: | :----------------------------------------------------------------: |
 | Mobile Development | [Github](https://github.com/SootheMate-Capstone-Team-C241-PS363/SootheMate-MD)       |
-|  Machine Learning  |  [Github](https://github.com/SootheMate-Capstone-Team-C241-PS363/SootheMate-BackEnd)       |
+|  Machine Learning  |  [Github](https://github.com/SootheMate-Capstone-Team-C241-PS363/SootheMate-ML)       |
 |   Cloud Computing  |   [Github](https://github.com/SootheMate-Capstone-Team-C241-PS363/SootheMate-BackEnd)    |
 
 
 ### App Demo
+![Dwonload APK Here !](https://drive.google.com/file/d/xxxxxxxxxxxxxx)
 
-https://drive.google.com/file/d/xxxxxxxxxxxxxx
 
 ### Youtube Link
+![Dwonload APK Here !](https://youtube.me/XX)
 
-https://youtu.be/xxxxxxxx
 
 ## Special Thanks to :
-
 xxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxx
