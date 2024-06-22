@@ -33,7 +33,7 @@ TechWas is a student-led organization dedicated to enhancing the management of e
 
 The primary objective of SootheMate is to assist individuals in managing their stress levels by providing tools to track stress over time. This application aims to encourage users to adopt healthier lifestyles by understanding their stress patterns and taking necessary actions to mitigate stress.
 
-### [Download App Here (.apk file)](https://drive.google.com/drive/folders/xxxxxxx)📲
+### [Download App Here (.apk file)](https://s.id/SootheMateApp)📲
 <!-- ### TBA -->
 
 ## App Showcase
@@ -142,6 +142,6 @@ You can check our repositories for each learning path in the tables below.
 
 
 ### Youtube Link
-- [Demo Apps ](https://www.youtube.com/)
+- [Demo Apps & Presentation ](https://youtu.be/aa9PY87TGMY)
 
 
